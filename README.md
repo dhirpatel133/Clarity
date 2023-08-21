@@ -1,6 +1,8 @@
 # Clarity
 
-This is the repository for Group 12's CS446 project, titled "Clarity"
+This is the repository for CS446 project, Clarity.
+
+Here's a video demonstration of the app: https://www.youtube.com/watch?v=zhFnmQo5ap0&ab_channel=GuneetBola
 
 ### Members
 - Dhir Patel (d354pate)
